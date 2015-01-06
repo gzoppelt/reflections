@@ -9,3 +9,7 @@ What value do you think it offers?
 * Files from the working directory are chosen for a commit by adding then to the staging area.
 * The user has control what is going to be in the next commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+* You add only those files to the staging area which represent the logical change and commit this change.
+
