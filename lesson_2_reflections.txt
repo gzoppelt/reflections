@@ -13,3 +13,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 * You add only those files to the staging area which represent the logical change and commit this change.
 
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+* When developing alternative features or testing new things.
+* A branch is a labelled commit which can checked out easily.
