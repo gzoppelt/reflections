@@ -1,1 +1,4 @@
-Whatever the question was?
+Why might you want to always pull changes manually rather than having
+Git automatically stay up-to-date with your remote repository?
+
+* What is published on GitHub is publicly available and you do not want to publish on what you are just working on.
