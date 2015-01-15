@@ -18,3 +18,18 @@ How would branches help?
 
 * When developing alternative features or testing new things.
 * A branch is a labelled commit which can checked out easily.
+
+How do the diagrams help you visualize the branch structure?
+
+* They show clearly if every commit has a parent, who this paren is and if there are any headless states.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+* The new master contains the commits of both branches.
+* The merge point has two parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+* automatic: convenient, quick and mostly sufficient
+* manual: If there is no way to decide which version to take, manual is better than a wrong automatic guess.
