@@ -2,3 +2,26 @@ Why might you want to always pull changes manually rather than having
 Git automatically stay up-to-date with your remote repository?
 
 * What is published on GitHub is publicly available and you do not want to publish on what you are just working on.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+* branch: happens only locally
+
+* fork: happens only on GitHub, y
+* you copy something from GitHub into your own account an work on it, without interring with the original creater of th project.
+
+* clone: gets GitHub projects onto your local computer
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+* git can immediately decide what state the remote was in at the last pull/push and give advice to push
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+
+* You would have to publish your code in a public directory and ask for comments/approval.
+* Finally someone would have to manually replace the improved file in the production code.
+
++ You wouldn't need to learn git.
+- It's a lot more effort to do it manually.
