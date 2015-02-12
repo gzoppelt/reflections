@@ -1,0 +1,18 @@
+We covered the following aspects:
+* Scopes
+    lexical scope: global and inside every function
+    execution context: each function call creates a new one within the previous
+* Closures:
+    I still have problem with this term, a new context is created within the context a function is defined within.
+    Isn't this like an objects has properties and methods and the methods have access to the properties.
+    Functions are objects, the surroundings are just the properties of these objects, why introduce a new
+    confusing term - closure?
+* this
+    and how it refers to the object found LEFT OF THE DOT, like in obj.fn(this, a) this refers to obj
+* Prototype Chains
+* Object Decorator Pattern
+* Functional Classes
+* Prototypal Classes
+* Pseudo-classical Pattern
+* Superclass and Subclasses
+* Pseudo-classical Subclasses
